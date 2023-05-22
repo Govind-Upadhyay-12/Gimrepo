@@ -1,0 +1,102 @@
+body{
+    padding :0px;
+    width:0px;
+    background-image: url('hf.jpg');
+    
+    background-repeat: no-repeat;
+    background-size: 2200px 1400px;
+    width: 200px;
+    height:3300px;
+    
+    /* background-image: url('');pexels-photo-1552252.jpeg */
+}
+/* at nhi chup rho aap abhi */
+.main div{
+    opacity: 100%;
+    background-color: rgba(63, 51, 51, 0.315);
+    align-items: center;
+    margin-left: 400px;
+}
+.headcontainer1 h1{
+    text-align: center; 
+    color: black(255, 38, 0);
+    align-items: center;
+}
+.headcontainer1 div{
+    text-align: center;
+    border: 2px solid black;
+    align-items: center;
+    float: left;
+    margin: 5px;
+    padding: 100px;
+    margin-top:  57px;
+    margin-left: 402px;
+    height: 40px;
+    width: 53px;
+    border-radius: 12px;
+}
+
+.headcontainer2 div{
+    text-align: center;
+    
+    border: 2px solid black;
+    align-items: center;
+    float: left;
+    margin: 50px;
+    padding: 110px;
+    height: 40px;
+    margin-top:  1px;
+    margin-left: 147px;
+    width: 33px;
+    border-radius: 12px;
+
+    
+}
+.headcontainer3 div{
+    display: inline-block;
+    position: relative;
+    border: 2px solid black;
+    align-items: center;
+    float: left;
+    margin: 50px;
+    padding: 110px;
+    height: 40px;
+    margin-bottom: 400px; 
+    margin-top: -50px;   
+    margin-left: 400px;
+    width: 35px;
+    border-radius: 12px;
+   /* eukdhuwhf nhi rukungiee */
+    /* meri bhn pooch rhi h faridabad haryana m aata h ha maine phle hi kh diya  */
+
+}
+.headcontainer4 div{
+    position: absolute;
+    display: inline-block;
+    border: 2px solid black;
+    align-items: center;
+    margin: 5px;
+    padding: 110px;
+    margin-top: 300px;    
+    margin-left: -50px;
+    height: 40px;
+    width: 33px;
+    border-radius: 12px;
+
+}
+.headcontainer1 div li{
+    align-items: center;
+}
+a{
+    font-weight: bold;
+    color:black;
+    font-size: 22px;
+}
+
+
+    
+    
+    
+
+
+

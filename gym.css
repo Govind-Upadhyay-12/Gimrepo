@@ -1,0 +1,251 @@
+body{
+    padding:0px;
+    margin:0px;
+    background:url('gym phoos - Copy.jpg');
+    background-repeat: repeat;
+    background-size: 1580px;
+    
+    height:400px;
+    
+    
+
+}
+.left{
+    /* border:5px solid olivedrab; */
+    display: inline-block;
+    position: absolute;
+    left: 4px;
+    top: 1px;
+    
+
+    
+    
+}
+.foot{
+    margin-top: 250px;
+    padding: 80px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-evenly; 
+}
+.right{
+    position: absolute;
+    right: 4px;
+    top: 19px;
+    /* border:5px solid red; */
+    display: inline-block;
+
+
+
+}
+.middle{
+    display: block;
+    width: 36%;
+     margin: 12px auto; /* for centre any thing we will use this */
+     /* border:4px solid orange; */
+     margin-top: 19px;
+     cursor: pointer;
+     }
+.navigation{
+    display:inline-block;
+
+
+}
+.navigation li{
+    
+    color: none;
+    float: left;
+    font-size: 35px;
+    
+}
+.navigation li a{
+    
+    color :azure;
+    text-decoration: none;
+    padding: 34px 20px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+.left img{
+    filter:invert(100%);
+    width:100px;
+    
+
+}
+.left div{
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    line-height: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.btn{
+    margin:0px;
+    color:white;
+    background-color: black;
+    padding: 6px 14px;
+    border:2px solid black;
+    border-radius: 10px ;
+    font-size: 15px;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.btn1{
+    margin:0px;
+    color:white;
+    background-color: black;
+    padding: 6px 14px;
+    border:2px solid black;
+    border-radius: 10px ;
+    font-size: 24px;
+    cursor:pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    /* font-family: sMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; */
+
+
+
+}
+.btn:hover{
+    background-color: grey;
+
+}
+.btn1:hover{
+    background-color: grey;
+
+}
+.page{
+    color: white;
+    align-items: center;
+
+    border-radius: 10px;
+    padding:40px ;
+    border:2px solid white;
+    margin-top: 120px;
+    margin-right: 800px;
+    margin-left:370px;
+    height :300px
+    }
+ div h1{
+    font-size:20px
+    
+ }
+ .formgroup input{
+    align-items: center;
+    margin-left: 250px;
+    border-radius: 5px;
+    padding:12px;
+    width: 230px;
+    height: 12px;
+    gap: 2px;
+    text-align: center;
+    display: block;
+    
+    border : 2px solid black;
+
+ }
+ .btn{
+    align-items: center;
+    margin-left: 310px ; 
+    border-radius: 12px;
+    width: 130px;
+    font-size: 24px;
+ }
+ .page h1{
+    align-items: center;
+    font-size: 34px;
+    margin-left: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+ .foot h1{
+    font-size: 50px;
+    margin-top: -90px;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+
+
+    
+ }
+ .foot{
+    opacity: 70%;
+    border-radius: 10px;
+    background-color: rgb(15, 14, 14);
+    border-top-left-radius: 125px;
+    border-top-right-radius: 125px;
+    border-bottom-left-radius: 125px;
+    border-bottom-right-radius: 125px;
+    
+
+ }
+ .gov1 a
+ {
+    color: azure;
+    font-size: 30px;
+    text-decoration: none;
+ }
+ 
+ .gov2 a{
+    color: azure;
+    font-size: 30px;
+    text-decoration: none;
+    }
+.gov3 a{
+    color: azure;
+    font-size: 30px;
+    text-decoration: none;
+
+}
+#sticky{
+    width: 300px;
+    height: 100px;
+    border: 2px solid white;
+    margin-left: 1700px;
+    background-color: rgba(216, 212, 171, 0.747);
+    border-radius: 70px;
+    box-shadow: inset;
+    text-align: center;
+    cursor: pointer;
+}
+#sticky :hover{
+    width: 315px;
+    height: 110px;
+    box-shadow: 4px 5px solid white;
+    /* aapne shi se div ni bana rakhe h isliye */
+    
+
+    
+}
+#sticky h1{
+    color: black;
+    font-size: 26px;
+}
+#sticky p{
+    color: black;
+    font-size: 25px;
+}
+#priya :hover{
+    background-color: rgba(213, 188, 243, 0.55);
+    color: white;
+    border-radius: 22px;
+    font-size: 24px;
+    
+}
+#priya{
+    margin-top: 100px;
+    position: sticky;
+    margin-left: 20px;
+    text-align: center;
+    height: 105px;
+    width: 350px;
+    background-color: rgba(218, 221, 236, 0.639);
+    border-radius: 26px;
+    }
+#priya h1{
+    padding: 10px;
+    font-size: 28px;
+}
+
